@@ -11,6 +11,21 @@ https://www.figma.com/file/xa5a4o8C2cs5iwCQOZuqP9/Untitled?t=flK3wow2gTUiw2MB-1
 
 ![image](https://user-images.githubusercontent.com/103835965/232917834-30c52982-3091-4cd7-8418-03bb533977a5.png)
 
+Prints da aplicação final:
+
+![image](https://user-images.githubusercontent.com/103835965/232918615-364ebd36-a50d-4f42-b265-a0282f0f9e10.png)
+
+Página principal:
+
+![image](https://user-images.githubusercontent.com/103835965/232918811-311074cb-6586-4fa6-b1ff-6a9229047c0e.png)
+
+![image](https://user-images.githubusercontent.com/103835965/232918845-04fbd145-dde2-40c7-986d-e609a7c01c14.png)
+
+Pagina colaboladores: 
+
+![image](https://user-images.githubusercontent.com/103835965/232918895-5d289549-8be3-4756-aba3-a56d8504c9b5.png)
+
+
 Usei apenas React TS e React BootStrap para montagem e exibição do layout
 
 Imprevistos ocorreram, porém, deixo aqui o máximo de código que consegui fazer nas últimas 2 horas..
