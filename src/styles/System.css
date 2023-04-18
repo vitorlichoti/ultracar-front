@@ -1,0 +1,8 @@
+.taks-status-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 10%;
+  align-items: flex-start;
+  gap: 200px
+}

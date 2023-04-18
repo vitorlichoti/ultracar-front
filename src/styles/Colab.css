@@ -1,0 +1,10 @@
+.colab-main-container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.colab-tasks-container {
+  display: flex;
+  gap: 150px;
+}
