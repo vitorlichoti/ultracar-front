@@ -1,8 +1,15 @@
 # Ultracar-Challenge
 Desafio de front end da Ultracar
 
+Para rodar a apliacação localmente faça:
+- o clone do repositório;
+- acesse a raíz do projeto;
+- rode o comando npm run dev;
+
 Optei por apresentar pelo menos um layout funcional da solução, prototipando os componentes no figma
 https://www.figma.com/file/xa5a4o8C2cs5iwCQOZuqP9/Untitled?t=flK3wow2gTUiw2MB-1
+
+![image](https://user-images.githubusercontent.com/103835965/232917834-30c52982-3091-4cd7-8418-03bb533977a5.png)
 
 Usei apenas React TS e React BootStrap para montagem e exibição do layout
 
