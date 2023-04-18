@@ -18,4 +18,4 @@ Poderia ir além, criando um banco de dados com entidades das quais a aplicaçã
 -Peças em estoque -> preços
 
 Por aí vai longe.. 
-Peço desculpas por não conseguir mostrar tudo que poderia fazer. Mas obrigado pela oportunidade!!
+Peço desculpas por não conseguir mostrar tudo que poderia fazer. Mas obrigado pela oportunidade!
