@@ -17,16 +17,16 @@ Prints da aplicação final:
 
 Página principal:
 
-![image](https://user-images.githubusercontent.com/103835965/232918811-311074cb-6586-4fa6-b1ff-6a9229047c0e.png)
+![image](https://user-images.githubusercontent.com/103835965/233169673-e5a2346b-893b-45da-8a14-cbabe7bd17c9.png)
 
-![image](https://user-images.githubusercontent.com/103835965/232918845-04fbd145-dde2-40c7-986d-e609a7c01c14.png)
+![image](https://user-images.githubusercontent.com/103835965/233169732-a448cd13-516b-4a24-93af-fb515abfa1a0.png)
 
 Pagina colaboladores: 
 
-![image](https://user-images.githubusercontent.com/103835965/232918895-5d289549-8be3-4756-aba3-a56d8504c9b5.png)
+![image](https://user-images.githubusercontent.com/103835965/233169781-4bb8924a-3fcd-4fba-8a1b-f1e86709b24a.png)
 
 
-Usei apenas React TS e React BootStrap para montagem e exibição do layout
+Usei apenas React TS, Redux 8.0 e React BootStrap para montagem e exibição do layout
 
 Imprevistos ocorreram, porém, deixo aqui o máximo de código que consegui fazer, adicionei o Redux com as atualizações da versão 8.0..
 
