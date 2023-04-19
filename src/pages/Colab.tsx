@@ -1,29 +1,34 @@
-import { Container, Col } from "react-bootstrap";
+import { Button, Container, Row, Col } from "react-bootstrap";
 import SystemNavBar from "../components/SystemNavBar";
-
-import { colabs } from "../mocks/mocktasks";
-import TasksToDo from "../components/TasksToDo";
-import TasksDone from "../components/TasksDone";
-
+import { useAppSelector, useAppDispatch } from "../app/hooks";
+import ColabTaskDone from "../components/ColabTaskDone";
+import ColabTaskToDo from "../components/ColabTaskToDo";
 import '../styles/Colab.css'
 
 function Colab() {
   const handleCloseShow = () => null;
+  const employees = useAppSelector((state) => state.counter.employees)
+  const dispatch = useAppDispatch()
 
   return (
     <Container>
       <SystemNavBar handleCloseShow={handleCloseShow}/>
       <Container className="colab-main-container">
         <div>
-          {colabs.map((e, i) => (
-            <li key={i}>
-              {e}
-            </li>
+          {employees.map((e, i) => (
+            <Container key={i}>
+              <Container style={{ display: 'flex', gap: '40px', justifyContent: 'space-around', alignItems: 'center'}}>
+                <Button >
+                  {e}
+                </Button>
+                <Container>
+                  <ColabTaskToDo employee={e}  />
+                  <ColabTaskDone employee={e} />
+                </Container>
+              </Container>
+              <hr />
+            </Container>
           ))}
-        </div>
-        <div className="colab-tasks-container">
-          <TasksToDo />
-          <TasksDone />
         </div>
       </Container>
     </Container>

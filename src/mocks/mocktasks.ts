@@ -47,3 +47,11 @@ export const tasks = [
 ]
 
 export const colabs = ['Joana', 'Alfredo', 'Mário']
+
+export const priceService = [
+  { name: 'escapamento', price: 45.00, labor: 78.00 },
+  { name: 'cubo de roda', price: 95.00, labor: 58.00},
+  { name: 'bomba injetora', price: 445.00, labor: 138.00},
+  { name: 'troca de óleo', price: 195.00, labor: 58.00},
+  { name: 'revisão completa', price: 1045.00, labor: 238.00}
+]

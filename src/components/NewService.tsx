@@ -16,7 +16,7 @@ const NewService: FunctionComponent<NewServiceProps> = ({show, handleCloseShow})
           <Offcanvas.Title>Adicionar um novo Serviço</Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
-          <ServiceForm />
+          <ServiceForm handleCloseShow={handleCloseShow}/>
         </Offcanvas.Body>
       </Offcanvas>
     </>
