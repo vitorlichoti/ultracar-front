@@ -28,10 +28,9 @@ Pagina colaboladores:
 
 Usei apenas React TS e React BootStrap para montagem e exibição do layout
 
-Imprevistos ocorreram, porém, deixo aqui o máximo de código que consegui fazer nas últimas 2 horas..
+Imprevistos ocorreram, porém, deixo aqui o máximo de código que consegui fazer, adicionei o Redux com as atualizações da versão 8.0..
 
-Importante ressaltar que, para a aplicação estar completa, eu usaria Redux como estado global da aplicação, pois além do site da ultracar utilizar tal tecnologia
-é uma ótima opção para persistir os dados na navegação.
+Importante ressaltar que, para a aplicação estar completa, eu refatoraria uma série de componentes e separaria estilos em mais arquivos .css, no tempo diponível que tive, tentei implementar o Redux pois além do site da ultracar utilizar tal tecnologia é uma ótima opção para persistir os dados na navegação.
 Outra solução mais simples seria salvando os dados do formulário em um localStorage, facilmente daria para renderizar as informações.
 
 Poderia ir além, criando um banco de dados com entidades das quais a aplicação poderia escalonar ainda mais, pensando no contexto de uma mecânica, teríamos:
@@ -39,5 +38,5 @@ Poderia ir além, criando um banco de dados com entidades das quais a aplicaçã
 -Funcionários -> Endereço -> horas trabalhadas -> serviços realizados -> metricas de atendimentos
 -Peças em estoque -> preços
 
-Por aí vai longe.. 
-Peço desculpas por não conseguir mostrar tudo que poderia fazer. Mas obrigado pela oportunidade!
+Por aí vai.. 
+Peço desculpas por não conseguir mostrar tudo que poderia fazer, coincidiu mais desafios com maior lista de resuisitos por ser full stack. Mas obrigado pela oportunidade!
